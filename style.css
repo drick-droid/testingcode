@@ -1,0 +1,10 @@
+    .tanpa-bootstrap {
+    border: none;
+    padding: 20px;
+    font-weight: 800;
+    font-size: 3em;
+    background-color:antiquewhite;
+    color: #333;
+    cursor: pointer;
+}
+
